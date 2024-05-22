@@ -16,7 +16,7 @@ I come from France, but have lived in Vienna, Austria and London, United Kingdom
 
 I speak French, English, Spanish and German.
 
-I love travelling and have been to 34 countries/territories so far!
+I love travelling and have been to 35 countries/territories so far!
 
 ## Experience
 - Machine Learning Consultant/Researcher at Maisha Design, an Interior Design firm
@@ -31,18 +31,25 @@ I love travelling and have been to 34 countries/territories so far!
   - Design and develop a database of suppliers
   - Streamline client relationships with automatic invoice generator
  
-## Projects
+## Notable Projects
+- [32-Bit RISC-V ISA CPU Design and Implementation](https://github.com/lolzio5/Team05-RISCV-Final)
+  - Fully functional CPU with pipelining, data cache and automatic hazard handling and branch prediction
+  - Use of SystemVerilog, C++ and RISC-V ISA
+  - Comprised of a Program Counter, Control Unit, Hazard Handling Unit, Data Memory RAM, Instruction Memory ROM, Data Cache and Pipeline Registers
+ 
+- [2 Player Flight Simulator with wireless FPGA controller](https://github.com/lolzio5/theflyingproject)
+  - Features 2 DE10-Lite FPGA controllers, using switches, buttons and onboard accelerometer to control a plane
+  - FPGA controllers wirelessly connect to AWS EC2 instance to asynchronously process inputs and output next plane state
+  - State of both planes rendered in the same 'world' with Unreal Engine 4 to provide smooth gameplay
+  - The goal of the game is to use the FPGA as a joystick to control and race the other plane through a portal
+  - Time taken is recorded and stored as a highscore in a DynamoDB AWS database
+
 - [Remote Controlled Rover](https://github.com/saturn691/Fyrryx]=)
   - Functioning rover robot capable of movement in 4 directions
   - Remote controller with Wifi communication
   - Capable of measuring magnetic fields, decode radio signals and decode infrared signals
   - Dual Arduino board with I2C protocol for multi-threaded control, sensing and filtering
   - 3D Printed frame
-
-- [32-Bit RISC-V ISA CPU Design and Implementation](https://github.com/lolzio5/Team05-RISCV-Final)
-  - Fully functional CPU with pipelining, data cache and automatic hazard handling and branch prediction
-  - Use of SystemVerilog, C++ and RISC-V ISA
-  - Comprised of a Program Counter, Control Unit, Hazard Handling Unit, Data Memory RAM, Instruction Memory ROM, Data Cache and Pipeline Registers
 
 - [Autonomous search-and-rescue quadcopter](https://github.com/lolzio5/uavproject)
   - 4-rotor Drone capable of detecting and avoiding obstacles autonomously
@@ -52,5 +59,5 @@ I love travelling and have been to 34 countries/territories so far!
   
 - [RISC-V ISA C-Language Compiler](https://github.com/lolzio5/c-compiler)
   - Implemented in 48 hours
-  - Implemented functions, variables, data types
-  - Capable of compiling a C program into RISC-V Assembly
+  - Implemented functions and function calls, variables, data types, arithmetic and boolean operations
+  - Capable of compiling a C-90 program into RISC-V Assembly
