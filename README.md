@@ -19,7 +19,14 @@ I speak French, English, Spanish and German.
 I love travelling and have been to 35 countries/territories so far!
 
 ## Experience
-- Machine Learning Consultant/Researcher at Maisha Design, an Interior Design firm
+- Data Science Intern at Equinor
+  - Used Natural Language Processing to automatically find a relevant document betweens thousands
+  - Used a custom Web Scraper to dynamically load webpages and extract data
+  - Used an LLM to generate an answer to a question based on relevant documents
+  - Hosted the solution in the cloud using Docker and Kubernetes
+  - Created a ChatBot type application using HTML/CSS/JavaScript and Python for an easy interface
+
+- Machine Learning Researcher at Maisha Design, an Interior Design firm
   - Identify areas of design with potential for improvement
   - Research the market to find novel approaches
   - Design a machine learning solution that emulates Maisha Design's creative process
@@ -32,6 +39,11 @@ I love travelling and have been to 35 countries/territories so far!
   - Streamline client relationships with automatic invoice generator
  
 ## Notable Projects
+- [FPGA Accelerator for parallel computing](https://github.com/lolzio5/JABBAL)
+  - Implementation of Conway's Game of Life on a PYNQ-Z1 FPGA board using custom hardware
+  - User Interface using Computer Vision to detect drawing movements and pause signals
+  - Real time evolution of a 1280x720 grid at a maximum of 200 000 evolutions per second
+  
 - [32-Bit RISC-V ISA CPU Design and Implementation](https://github.com/lolzio5/Team05-RISCV-Final)
   - Fully functional CPU with pipelining, data cache and automatic hazard handling and branch prediction
   - Use of SystemVerilog, C++ and RISC-V ISA
@@ -44,7 +56,7 @@ I love travelling and have been to 35 countries/territories so far!
   - The goal of the game is to use the FPGA as a joystick to control and race the other plane through a portal
   - Time taken is recorded and stored as a highscore in a DynamoDB AWS database
 
-- [Remote Controlled Rover](https://github.com/saturn691/Fyrryx]=)
+- [Remote Controlled Rover](https://github.com/saturn691/Fyrryx)
   - Functioning rover robot capable of movement in 4 directions
   - Remote controller with Wifi communication
   - Capable of measuring magnetic fields, decode radio signals and decode infrared signals
