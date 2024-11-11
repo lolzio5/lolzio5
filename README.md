@@ -25,18 +25,6 @@ I love travelling and have been to 35 countries/territories so far!
   - Leverage an LLM to generate an answer to a question based on relevant documents extracted from the database using NLP
   - Hosted the solution in the cloud using Docker and Kubernetes
   - Created a ChatBot type application using HTML/CSS/JavaScript and Python for an easy interface
-
-- Machine Learning Researcher at Maisha Design, an Interior Design firm
-  - Identify areas of design with potential for improvement
-  - Research the market to find novel approaches
-  - Design a machine learning solution that emulates Maisha Design's creative process
-  - Implement a Minimal Viable Product (MVP)
-  - Conclude on findings and identify improvement possibilities
-  
-- Software Engineer at Maisha Design
-  - Develop software solutions to automate repetitive tasks
-  - Design and develop a database of suppliers
-  - Streamline client relationships with automatic invoice generator
  
 ## Notable Projects
 - [FPGA Accelerator for parallel computing](https://github.com/lolzio5/JABBAL)
