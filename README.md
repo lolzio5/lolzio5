@@ -22,7 +22,7 @@ I love travelling and have been to 36 countries/territories so far!
 - Data Science Intern at Equinor
   - Used Natural Language Processing (NLP) to automatically find a relevant document betweens thousands
   - Implemented a custom Selenium web scraper to dynamically load webpages and extract data to form a document database
-  - Leverage an LLM to generate an answer to a question based on relevant documents extracted from the database using NLP
+  - Using Retrieval Augmented Generation (RAG), leveraged an LLM to generate an answer to a question based on relevant documents extracted from the database using NLP
   - Hosted the solution in the cloud using Docker and Kubernetes
   - Created a ChatBot type application using HTML/CSS/JavaScript and Python for an easy interface
  
