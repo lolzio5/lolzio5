@@ -19,7 +19,7 @@ I speak French, English, Spanish and German.
 I love travelling and have been to 36 countries/territories so far!
 
 ## Experience
-- Data Science Intern at Equinor
+- Software Engineering and Data Science Intern at Equinor
   - Used Natural Language Processing (NLP) to automatically find a relevant document betweens thousands
   - Implemented a custom Selenium web scraper to dynamically load webpages and extract data to form a document database
   - Using Retrieval Augmented Generation (RAG), leveraged an LLM to generate an answer to a question based on relevant documents extracted from the database using NLP
@@ -31,7 +31,14 @@ I love travelling and have been to 36 countries/territories so far!
   - Implementation of Conway's Game of Life on a PYNQ-Z1 FPGA board using custom hardware
   - User Interface using Computer Vision to detect drawing movements and pause signals
   - Real time evolution of a 1280x720 grid at a maximum of 200 000 evolutions per second
-  
+
+- PiTrainer: AI-Powered Personal Gym Coach Embedded System
+  - Android and iOS compatible mobile app in React Native
+  - AWS EC2 instance backend server in Python Flask to handle HTTP requests and Dynamo database storage
+  - Custom-trained machine learning model to analyse gym rep quality
+  - RaspberryPi in Python to collect accelerometer and magnetometer data, analyse reps using signal processing methods
+
+
 - [32-Bit RISC-V ISA CPU Design and Implementation](https://github.com/lolzio5/Team05-RISCV-Final)
   - Fully functional CPU with pipelining, data cache and automatic hazard handling and branch prediction
   - Use of SystemVerilog, C++ and RISC-V ISA
