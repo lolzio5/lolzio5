@@ -19,6 +19,9 @@ I speak French, English, Spanish and German.
 I love travelling and have been to 37 countries/territories so far!
 
 ## Experience
+- Software Development Engineering Intern at Amazon
+  - In the Amazon Fuse team, integrating 3rd parties with Amazon services (PrimeVideo, Audible, Kindle Unlimited)
+
 - Software Engineering and Data Science Intern at Equinor
   - Used Natural Language Processing (NLP) to automatically find a relevant document betweens thousands
   - Implemented a custom Selenium web scraper to dynamically load webpages and extract data to form a document database
