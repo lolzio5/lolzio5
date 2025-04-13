@@ -19,6 +19,7 @@ I speak French, English, Spanish and German.
 I love travelling and have been to 37 countries/territories so far!
 
 ## Experience
+
 - Software Development Engineering Intern at Amazon
   - In the Amazon Fuse team, integrating 3rd parties with Amazon services (PrimeVideo, Audible, Kindle Unlimited)
 
