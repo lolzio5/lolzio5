@@ -36,7 +36,7 @@ I love travelling and have been to 37 countries/territories so far!
   - User Interface using Computer Vision to detect drawing movements and pause signals
   - Real time evolution of a 1280x720 grid at a maximum of 200 000 evolutions per second
 
-- PiTrainer: AI-Powered Personal Gym Coach Embedded System
+- [PiTrainer: AI-Powered Personal Gym Coach Embedded System](https://github.com/lolzio5/PiTrainer)
   - Android and iOS compatible mobile app in React Native
   - AWS EC2 instance backend server in Python Flask to handle HTTP requests and Dynamo database storage
   - Custom-trained machine learning model to analyse gym rep quality
