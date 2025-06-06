@@ -1,10 +1,11 @@
 # Welcome to Lolézio's profile!
 
-I'm an Electronics and Informations Engineering student at Imperial College London, with a passion for developing AI applications to increase efficiency of processes.
+I'm an Electronic and Information Engineering student at Imperial College London, with a passion for developing AI applications to increase efficiency of processes.
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
 
 ## Quick stats
 ![Lolézio's GitHub stats](https://github-readme-stats.vercel.app/api?username=lolzio5&show_icons=true&theme=radical&hide_rank=true&hide=issues,stars)
@@ -21,7 +22,10 @@ I love travelling and have been to 37 countries/territories so far!
 ## Experience
 
 - Software Development Engineering Intern at Amazon
-  - In the Amazon Fuse team, integrating 3rd parties with Amazon services (PrimeVideo, Audible, Kindle Unlimited)
+  - Built a full-stack modern web application
+  - Integrated a frontend with an API Gateway + Lambdas backend
+  - Built a full end-to-end user authentication pipeline
+  - Used CI/CD development techniques
 
 - Software Engineering and Data Science Intern at Equinor
   - Used Natural Language Processing (NLP) to automatically find a relevant document betweens thousands
@@ -35,13 +39,18 @@ I love travelling and have been to 37 countries/territories so far!
   - Implementation of Conway's Game of Life on a PYNQ-Z1 FPGA board using custom hardware
   - User Interface using Computer Vision to detect drawing movements and pause signals
   - Real time evolution of a 1280x720 grid at a maximum of 200 000 evolutions per second
+ 
+- [Music Synthesiser with DOOM](https://github.com/ogahector/synth_player)
+  - Music synthesiser capable of playing notes, with volume and octave control, recording functionality, changing waveform abilities
+  - Graphical user interface to interact with the various functionality
+  - Fully working DOOM-like 3D game with purpose-built game engine, obstacles, enemies, shooting functionality, and chunk-based world generation
+  - All running at a maximum CPU utilisation of 48%, DOOM running at 50fps (20ms refresh rate)
 
 - [PiTrainer: AI-Powered Personal Gym Coach Embedded System](https://github.com/lolzio5/PiTrainer)
   - Android and iOS compatible mobile app in React Native
   - AWS EC2 instance backend server in Python Flask to handle HTTP requests and Dynamo database storage
   - Custom-trained machine learning model to analyse gym rep quality
   - RaspberryPi in Python to collect accelerometer and magnetometer data, analyse reps using signal processing methods
-
 
 - [32-Bit RISC-V ISA CPU Design and Implementation](https://github.com/lolzio5/Team05-RISCV-Final)
   - Fully functional CPU with pipelining, data cache and automatic hazard handling and branch prediction
