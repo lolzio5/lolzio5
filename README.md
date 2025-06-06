@@ -5,7 +5,7 @@ I'm an Electronic and Information Engineering student at Imperial College London
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ## Quick stats
 ![Lolézio's GitHub stats](https://github-readme-stats.vercel.app/api?username=lolzio5&show_icons=true&theme=radical&hide_rank=true&hide=issues,stars)
