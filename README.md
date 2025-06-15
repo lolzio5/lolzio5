@@ -21,13 +21,13 @@ I love travelling and have been to 37 countries/territories so far!
 
 ## Experience
 
-- Software Development Engineering Intern at Amazon
+- Software Development Engineering Intern at **Amazon**
   - Built a full-stack modern web application
   - Integrated a frontend with an API Gateway + Lambdas backend
   - Built a full end-to-end user authentication pipeline
   - Used CI/CD development techniques
 
-- Software Engineering and Data Science Intern at Equinor
+- Software Engineering and Data Science Intern at **Equinor**
   - Used Natural Language Processing (NLP) to automatically find a relevant document betweens thousands
   - Implemented a custom Selenium web scraper to dynamically load webpages and extract data to form a document database
   - Using Retrieval Augmented Generation (RAG), leveraged an LLM to generate an answer to a question based on relevant documents extracted from the database using NLP
@@ -78,6 +78,6 @@ I love travelling and have been to 37 countries/territories so far!
   - Designed to travel from a Point A to a Point B as fast as possible in Alpine search-and-rescue operations
   
 - [RISC-V ISA C-Language Compiler](https://github.com/lolzio5/c-compiler)
-  - Implemented in 48 hours
+  - Implemented in 36 hours
   - Implemented functions and function calls, variables, data types, arithmetic and boolean operations
   - Capable of compiling a C-90 program into RISC-V Assembly
