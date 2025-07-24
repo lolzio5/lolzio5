@@ -17,13 +17,13 @@ I come from France, but have lived in Vienna, Austria and London, United Kingdom
 
 I speak French, English, Spanish and German.
 
-I love travelling and have been to 37 countries/territories so far!
+I love travelling and have been to 38 countries/territories so far!
 
 ## Experience
 
 - Software Development Engineering Intern at **Amazon**
   - Built a full-stack modern web application
-  - Integrated a frontend with an API Gateway + Lambdas backend
+  - Integrated a React frontend with an API Gateway + Lambdas backend
   - Built a full end-to-end user authentication pipeline
   - Used CI/CD development techniques
 
