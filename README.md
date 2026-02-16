@@ -17,7 +17,7 @@ I come from France, but have lived in Vienna, Austria and London, United Kingdom
 
 I speak French, English, Spanish and German.
 
-I love travelling and have been to 38 countries/territories so far!
+I love travelling and have been to 40 countries/territories so far!
 
 ## Experience
 
